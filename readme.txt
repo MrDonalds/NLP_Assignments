@@ -1,3 +1,2 @@
-Git is a distributed version control software
-the second day
+This is the assignment of the NLP course
 
